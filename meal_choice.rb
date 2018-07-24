@@ -9,8 +9,14 @@ def breakfast(breakfast_food = "Frosted Flakes")
   puts "Morning is the best time for #{breakfast_food}!"
 end 
 
-def lunch(lunch_food = )
+def lunch(lunch_food = "grilled cheese")
+  puts "Lunch isn't complete without #{lunch_food}!"
+end 
 
+def dinner(dinner_food = "salmon")
+  puts "Dinner is the best with #{dinner_food}!"
+  
+breakfast("")
 
 
 
