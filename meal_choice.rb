@@ -17,6 +17,8 @@ def dinner(dinner_food = "salmon")
   puts "Dinner is the best with #{dinner_food}!"
   
 breakfast("scrambled eggs")
+lunch("sandwhich")
+dinner("steak")
 
 
 
