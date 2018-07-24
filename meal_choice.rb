@@ -25,8 +25,8 @@ puts snacks("Swedish fish")
 # call your methods here
 
 breakfast("pancakes").downcase
-lunch("sandwhich")
-dinner("steak")
+lunch("peanut butter").downcase
+dinner("brocoli").downcase
 
 # Call your methods without any arguments here
 snacks
