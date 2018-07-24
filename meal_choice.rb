@@ -15,7 +15,8 @@ end
 
 def dinner(dinner_food = "salmon")
   puts "Dinner is the best with #{dinner_food}!"
-  
+end
+
 breakfast("scrambled eggs")
 lunch("sandwhich")
 dinner("steak")
@@ -27,7 +28,6 @@ puts snacks("Swedish fish")
 ## This returns "Any time, is the right time for Sweedish fish!"
 
 # call your methods here
-
 
 # Call your methods without any arguments here
 puts snacks
