@@ -24,7 +24,7 @@ puts snacks("Swedish fish")
 
 # call your methods here
 
-breakfast("scrambled eggs")
+breakfast("pancakes")
 lunch("sandwhich")
 dinner("steak")
 
